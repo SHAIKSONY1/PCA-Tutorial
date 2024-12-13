@@ -14,11 +14,12 @@ This repository contains a comprehensive tutorial on Principal Component Analysi
 ### **Tutorial**
 - [PCA_Tutorial.pdf](PCA_Tutorial.pdf): A detailed guide covering PCA theory, implementation, and applications.
 
-### **Code**
-- `pca_analysis.ipynb`: Jupyter Notebook with Python code for implementing PCA on the Iris dataset.
+### Code File
+The Jupyter Notebook with the implementation of PCA on the Iris dataset can be found here:  
+[**Iris PCA Visualization Code**](https://github.com/SHAIKSONY1/PCA-Tutorial/blob/main/iris_pca_visualization.ipynb)
 
-```
-## Interactive Version
+
+### Interactive Version
 Run the code interactively in Google Colab:  
 [**Google Colab Notebook**](https://colab.research.google.com/drive/11vGDsfYTewYvubg5AmZTdmw0s8W8J1km?usp=sharing)
 
